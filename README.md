@@ -3,10 +3,13 @@ SureOrNot - A chrome extension for your Facebook feed to fight fake news
 
 ![picture](img/promotional_tile.png)
 
-How often do you ask yourself **"Sure Or Not?"** whenever you chance upon a controversial heartstirring news? [SureOrNot](https://chrome.google.com/webstore/detail/sure-or-not-news-date-val/hkiapjaidokhcajjnpldhioambcjbbhp) provides users with a heads up if you are reading an outdated news article on your Facebook feed to fight Fake News. Some outdated news are often shared again due to the controversy it brings or to create tensions.
+How often do you ask yourself **"Sure Or Not?"** whenever you chance upon a controversial heartstirring news? [SureOrNot](https://chrome.google.com/webstore/detail/sure-or-not-news-date-val/hkiapjaidokhcajjnpldhioambcjbbhp) provides users with a heads up if you are reading an outdated or uncredible news article on your Facebook feed to fight Fake News. Sometimes outdated news are often shared again due to the controversy it brings or to create tensions.
 
 ![picture](img/screenshot.png)
 
+## Objectives of SureOrNot
+
+To empower social media users to with analytical capabilities and aid them to distinguish real news from misinformation.
 
 ## Getting Started
 
@@ -25,7 +28,7 @@ Once you're done with development, do submit a pull request and I'll update the 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Current Plans
-
+These are the features planned, feel free to suggest improvements
 - [x] Determine if a news is outdated by at least more than 6 months
 - [ ] Determine if a news is emotional
 - [ ] Determine if a news is from a trusted source
