@@ -1,0 +1,23 @@
+.old,.new, .recent{
+    border: none;
+    padding: 3px 3px 3px 3px;
+    background: #FF4500;
+    color: #fff;
+    font: 13px Arial, Helvetica, sans-serif;
+    box-shadow: 1px 1px 4px #DADADA;
+    -moz-box-shadow: 1px 1px 4px #DADADA;
+    -webkit-box-shadow: 1px 1px 4px #DADADA;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.new {
+    background: #3CB371;
+}
+
+.recent {
+    background: #FFA500;
+}
